@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/2fe335d2-5b6f-47cd-abec-9602cdcb3e9e)# belajar_analisis_data
 # Submission Dicoding "Belajar Analisis Data dengan Python"
 
 ## Project Analisis Data
@@ -28,13 +27,18 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
     cd bike-sharing/dashboard/
     streamlit run dashboard.py
     ```
-![image](https://github.com/user-attachments/assets/e122b187-9a8a-46cb-b758-f5f59a8405f8)
+![image](https://github.com/user-attachments/assets/40673a34-5565-4526-bef3-3502e0a088bb)
 
-![image](https://github.com/user-attachments/assets/2f896eaf-189b-440a-9968-3ac495beaefb)
+![image](https://github.com/user-attachments/assets/499d815b-ed32-4deb-8530-b9e960ae9dc0)
 
-![image](https://github.com/user-attachments/assets/14eea870-9a00-4dab-b486-8c36a4155caf)
+![image](https://github.com/user-attachments/assets/3a8ed7de-7f15-4382-9a90-47b382ceea52)
 
-![image](https://github.com/user-attachments/assets/dcbd23b6-eb11-432c-8b8f-69ce5b688a5d)
+![image](https://github.com/user-attachments/assets/d1ac8a22-8715-41c3-93d0-3f352f284585)
+
+![image](https://github.com/user-attachments/assets/08157a36-8028-4f53-b2f1-98166aab2011)
+
+
+
 
 
 
